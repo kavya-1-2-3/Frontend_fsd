@@ -14,7 +14,7 @@ import SignupPage from "./components/auth/SignupPage";
 
 // Admin Pages
 import Dashboard from "./components/admin/Dashboard";
-import AdminLayout from "./components/admin/Adminlayout";
+import AdminLayout from "./components/admin/AdminLayout";
 
 // Product Pages
 import ProductList from "./components/products/ProductList";
